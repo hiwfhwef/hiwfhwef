@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiwfhwef
+- 👋 Hi, I’m @bharath 
 - 👀 I’m interested in c,c++,py
 - 🌱 I’m currently learning py
 - 💞️ I’m looking to collaborate on projects than can help me
